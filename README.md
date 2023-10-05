@@ -45,7 +45,6 @@ Now run it to open the app!
 $ streamlit run streamlit_app.py
 ```
 
-<img src="https://user-images.githubusercontent.com/7164864/215172915-cf087c56-e7ae-449a-83a4-b5fa0328d954.gif" width=300 alt="Little example"></img>
 
 
 
